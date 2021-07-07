@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/iboseong/.gradle/caches/transforms-2/files-2.1/72bff3236ef989b32a30b5c0e1502b60/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/iboseong/.gradle/caches/transforms-2/files-2.1/72bff3236ef989b32a30b5c0e1502b60/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/iboseong/.gradle/caches/transforms-2/files-2.1/72bff3236ef989b32a30b5c0e1502b60/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/iboseong/.gradle/caches/transforms-2/files-2.1/72bff3236ef989b32a30b5c0e1502b60/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

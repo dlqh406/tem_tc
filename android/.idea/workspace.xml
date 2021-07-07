@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba7aa892-ca2a-46da-959e-8b1f824c3934" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/CallBroadcastReceiver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/CallNotification.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/CallPlayer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/CallPreferences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/CallService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/FlutterIncomingCallPlugin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/IncomingCallActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/kotlin/com/github/alezhka/flutter_incoming_call/models.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/ic_accept_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/ic_avatar_default_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/ic_call_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/ic_decline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/ic_phone_missed_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/layout_bg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/sel_call_accept.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/drawable/sel_call_decline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/layout/activity_incoming_call.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/layout/custom_call_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/layout/custom_toast_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/layout/top_notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/raw/nosound.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/raw/ringtone.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/values-ru/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/android/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/Assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/Classes/EventStreamHandler.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/Classes/FlutterIncomingCallPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/Classes/FlutterIncomingCallPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/Classes/SwiftFlutterIncomingCallPlugin.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/Classes/models.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/ios/flutter_incoming_call.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/lib/config.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/lib/flutter_incoming_call.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/lib/models.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/media/android_incoming_call_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/media/android_incoming_call_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/media/ios_incoming_call_1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/media/ios_incoming_call_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_incoming_call/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/GoogleService-Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/Runner/Runner.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/callExtHandler/CallDirectoryHandler.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/callExtHandler/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/callExtHandler/UserData.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ios/callExtHandler/callExtHandler.entitlements" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/team_call/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/team_call/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/login.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/login.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/Iamport_certification.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/carrier.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/certification_data.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/iamport_error.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/iamport_payment.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/iamport_url.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/iamport_validation.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/iamport_webview.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/index.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/method.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/payment_data.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/pg.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/models/quota.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/phoneCertification.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/phoneCertification.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/certification.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/certification_result.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/certification_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/payment.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/payment.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/payment_result.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/screens/payment_result.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/screens/payment_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@R3CM909J82X]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ueRRvMEozkAgqJGf1eLaqNzmM3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="android.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba7aa892-ca2a-46da-959e-8b1f824c3934" name="Default Changelist" comment="" />
+      <created>1625024064444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625024064444</updated>
+    </task>
+    <servers />
+  </component>
+</project>

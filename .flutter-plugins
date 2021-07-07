@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+background_fetch=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/background_fetch-0.7.3/
+cloud_firestore=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.7/
+cloud_firestore_web=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.1.1+2/
+firebase_auth=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/
+firebase_core=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/
+firebase_core_web=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+flutter_incoming_call=/Users/iboseong/AndroidStudioProjects/team-call/flutter_incoming_call/
+flutter_phone_direct_caller=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/flutter_phone_direct_caller-2.0.0/
+flutter_webview_plugin=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/
+fluttertoast=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/fluttertoast-7.1.8/
+iamport_flutter=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/iamport_flutter-0.9.15/
+permission_handler=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.1.0+2/
+uni_links=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/uni_links-0.4.0/
+url_launcher=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.10/
+url_launcher_linux=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-0.0.1+4/
+url_launcher_macos=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-0.0.1+9/
+url_launcher_web=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-0.1.5+3/
+url_launcher_windows=/Users/iboseong/flutter2/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-0.0.1+3/

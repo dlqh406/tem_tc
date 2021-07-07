@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.transistorsoft:tsbackgroundfetch:0.5.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

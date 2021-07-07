@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/background_fetch-0.7.3/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.7/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/iamport_flutter-0.9.15/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.1.0+2/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/uni_links-0.4.0/android" />
+            <option value="$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.6/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../flutter_incoming_call/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

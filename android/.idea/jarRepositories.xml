@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="BintrayJCenter9" />
+      <option name="name" value="BintrayJCenter9" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://storage.googleapis.com/download.flutter.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Google9" />
+      <option name="name" value="Google9" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/background_fetch-0.7.3/android/libs/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$PROJECT_DIR$/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$PROJECT_DIR$/../flutter_incoming_call/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.14.0+9/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/uni_links-0.4.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.5/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$PROJECT_DIR$/app/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/iamport_flutter-0.9.15/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.7.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenLocal" />
+      <option name="name" value="MavenLocal" />
+      <option name="url" value="file:$USER_HOME$/.m2/repository/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.7/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:$USER_HOME$/Desktop/1.infotechCore/5.plugIns/flutter/dev_tools/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-5.1.0+2/android/libs" />
+    </remote-repository>
+  </component>
+</project>

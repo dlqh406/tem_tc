@@ -1,0 +1,766 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+MERGED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:fluttertoast] /Users/iboseong/AndroidStudioProjects/team-call/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:background_fetch] /Users/iboseong/AndroidStudioProjects/team-call/build/background_fetch/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:iamport_flutter] /Users/iboseong/AndroidStudioProjects/team-call/build/iamport_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:permission_handler] /Users/iboseong/AndroidStudioProjects/team-call/build/permission_handler/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:uni_links] /Users/iboseong/AndroidStudioProjects/team-call/build/uni_links/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/728bfa1fe31b64a3f342cafd795ae03a/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:2:1-26:12
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/92952efca8b7a9bdaf56ee34ef331cc6/jetified-grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7064e80c2668ed83536f1c7886ef07c7/jetified-firebase-core-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c56b182ab4c0be021a2d5b600e149d05/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/4baf466b704730ecc642941cb8ad7409/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a165a54974c5ee73519572a7f512be62/jetified-play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eb7db92ddcfbfb5cee4f9016b4605a0d/jetified-firebase-iid-interop-16.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/2bf10c92d9153cfb2c1ea68f8039b5a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3a3f2bdb30c7561719f4a11bca815383/jetified-play-services-stats-15.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/984b22f3853cfec6259e4b20a0ed8f44/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f4bdcdd181c86c7cda44ce31748a2b73/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9bd632f74bd918bb8c6ecd4a06be8cb6/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a8c88d4738b8f86277fded9995d7df6f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/ddbae51885cd0800673e72bc80983336/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/12e57db4ad4c3c8b6128d58c9df658fa/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/46f1573a451260a6790a0a5aff843716/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/6403655464e8787da013016443acb4be/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb6abfa7091d69fbeab99f65155bc8d6/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fcc3d1d2cee5cdcdcd88120da1d0181e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5c6f1ad2a3b572123130abaa959f8aa9/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/b4d1fcf99986f80609cc667d9fb4b6b0/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a6f6832f62eb68db87917d8bd9f23634/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e453cf3dfc6b6e71b0e0c9b55bac1e0f/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3f517ad3371ff91f7666252f7203a740/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/213cf0d48048b069df2a4779b7c3ca9d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f7f74baffcf7bb1bc62c69c3f8df2eb3/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eed52a973f9573370ff164c4a0dfbfe8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5edc0b45de17326cc7b7855513787b23/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3e45760876ec903607c06d312b141011/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3645ec191b4820857eea3999838bb819/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/6e70eb1022907a65568769c412486936/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0cf45ac27d883fec1562c604e4e419d0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a8cb0a9578fd34f4f7b569bc9cc33d50/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1e5fb9d906d5af05481c58a7ccc8e512/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/004efda64469b6a933087381de70f464/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5638339a343433508d77f575b3c34252/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1c9163fa79510bb444974bfbdbc90ed3/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3beecf4f2cc1155a8fc167b059e7e9c5/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c6f5b3cd4cbfa1db55e76b07912f3740/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/12f5baadd5d1a3a114f657a42ab1cdfa/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/4965e5b6f45e43c4e2fa10aa6bc086d5/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e4ac42486f81acdc4a205ad9e432e06b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/b231973ba009e3ebf86de02b558550a0/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c211966c2c602769535e6c2a19d12dd7/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/176d4d504e5bef911ee2267c5a50d9de/jetified-play-services-measurement-base-16.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:2:5-51
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:1-89:12
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:6:5-75
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-75
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:7:5-72
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-72
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:8:5-68
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:12:5-68
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:9:5-80
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:11:5-81
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:10:5-76
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-77
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:10:22-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:11:22-75
+application
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:15:5-87:19
+MERGED from [:background_fetch] /Users/iboseong/AndroidStudioProjects/team-call/build/background_fetch/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-8:19
+MERGED from [:background_fetch] /Users/iboseong/AndroidStudioProjects/team-call/build/background_fetch/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-8:19
+MERGED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-19:19
+MERGED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-12:19
+MERGED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/728bfa1fe31b64a3f342cafd795ae03a/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/728bfa1fe31b64a3f342cafd795ae03a/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7064e80c2668ed83536f1c7886ef07c7/jetified-firebase-core-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7064e80c2668ed83536f1c7886ef07c7/jetified-firebase-core-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:15:5-31:19
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:15:5-31:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c56b182ab4c0be021a2d5b600e149d05/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c56b182ab4c0be021a2d5b600e149d05/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eb7db92ddcfbfb5cee4f9016b4605a0d/jetified-firebase-iid-interop-16.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eb7db92ddcfbfb5cee4f9016b4605a0d/jetified-firebase-iid-interop-16.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/2bf10c92d9153cfb2c1ea68f8039b5a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/2bf10c92d9153cfb2c1ea68f8039b5a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3a3f2bdb30c7561719f4a11bca815383/jetified-play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3a3f2bdb30c7561719f4a11bca815383/jetified-play-services-stats-15.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/984b22f3853cfec6259e4b20a0ed8f44/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/984b22f3853cfec6259e4b20a0ed8f44/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f4bdcdd181c86c7cda44ce31748a2b73/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f4bdcdd181c86c7cda44ce31748a2b73/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5edc0b45de17326cc7b7855513787b23/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5edc0b45de17326cc7b7855513787b23/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1e5fb9d906d5af05481c58a7ccc8e512/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1e5fb9d906d5af05481c58a7ccc8e512/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1c9163fa79510bb444974bfbdbc90ed3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1c9163fa79510bb444974bfbdbc90ed3/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/176d4d504e5bef911ee2267c5a50d9de/jetified-play-services-measurement-base-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/176d4d504e5bef911ee2267c5a50d9de/jetified-play-services-measurement-base-16.0.0/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5edc0b45de17326cc7b7855513787b23/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:18:9-27
+	android:icon
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:20:9-43
+	android:theme
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:19:9-53
+	tools:replace
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:16:9-38
+	android:usesCleartextTraffic
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:17:9-57
+activity#com.team_call.MainActivity
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:32:9-53:20
+	android:launchMode
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:34:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:37:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:38:13-55
+	android:configChanges
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:36:13-163
+	android:theme
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:35:13-47
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:33:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:40:13-43:17
+	android:resource
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:42:15-52
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:41:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:45:13-48:17
+	android:resource
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:47:15-61
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:46:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:49:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:50:17-68
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:51:17-76
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:51:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:55:9-57:33
+	android:value
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:57:13-30
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:56:13-44
+activity#com.teamcall.flutter_incoming_call.IncomingCallActivity
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:58:9-66:20
+	android:screenOrientation
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:61:13-49
+	android:theme
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:60:13-57
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:59:13-83
+intent-filter#action:name:com.teamcall.flutter_incoming_call.activity.ACTION_INCOMING_CALL+category:name:android.intent.category.DEFAULT
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:62:13-65:29
+action#com.teamcall.flutter_incoming_call.activity.ACTION_INCOMING_CALL
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:63:17-107
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:63:25-104
+category#android.intent.category.DEFAULT
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:64:17-76
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:64:27-73
+service#com.teamcall.flutter_incoming_call.CallService
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:68:9-72:19
+	android:enabled
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:70:13-35
+	android:exported
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:69:13-74
+receiver#com.teamcall.flutter_incoming_call.StartReceiver
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:74:9-78:20
+	android:enabled
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:74:19-41
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:74:42-105
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:75:13-77:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:76:17-78
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:76:25-76
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:88:5-75
+	android:name
+		ADDED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml:88:22-72
+uses-sdk
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/iboseong/AndroidStudioProjects/team-call/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/iboseong/AndroidStudioProjects/team-call/build/fluttertoast/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:background_fetch] /Users/iboseong/AndroidStudioProjects/team-call/build/background_fetch/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:background_fetch] /Users/iboseong/AndroidStudioProjects/team-call/build/background_fetch/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:iamport_flutter] /Users/iboseong/AndroidStudioProjects/team-call/build/iamport_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:iamport_flutter] /Users/iboseong/AndroidStudioProjects/team-call/build/iamport_flutter/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-44
+MERGED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/iboseong/AndroidStudioProjects/team-call/build/permission_handler/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/iboseong/AndroidStudioProjects/team-call/build/permission_handler/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:uni_links] /Users/iboseong/AndroidStudioProjects/team-call/build/uni_links/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:uni_links] /Users/iboseong/AndroidStudioProjects/team-call/build/uni_links/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/03dba3ffd83830003d9e7c51185ecce6/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/728bfa1fe31b64a3f342cafd795ae03a/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/728bfa1fe31b64a3f342cafd795ae03a/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/92952efca8b7a9bdaf56ee34ef331cc6/jetified-grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/92952efca8b7a9bdaf56ee34ef331cc6/jetified-grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7064e80c2668ed83536f1c7886ef07c7/jetified-firebase-core-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7064e80c2668ed83536f1c7886ef07c7/jetified-firebase-core-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c56b182ab4c0be021a2d5b600e149d05/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c56b182ab4c0be021a2d5b600e149d05/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/4baf466b704730ecc642941cb8ad7409/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/4baf466b704730ecc642941cb8ad7409/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a165a54974c5ee73519572a7f512be62/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a165a54974c5ee73519572a7f512be62/jetified-play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eb7db92ddcfbfb5cee4f9016b4605a0d/jetified-firebase-iid-interop-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eb7db92ddcfbfb5cee4f9016b4605a0d/jetified-firebase-iid-interop-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/2bf10c92d9153cfb2c1ea68f8039b5a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/2bf10c92d9153cfb2c1ea68f8039b5a6/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3a3f2bdb30c7561719f4a11bca815383/jetified-play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3a3f2bdb30c7561719f4a11bca815383/jetified-play-services-stats-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/984b22f3853cfec6259e4b20a0ed8f44/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/984b22f3853cfec6259e4b20a0ed8f44/jetified-firebase-measurement-connector-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f4bdcdd181c86c7cda44ce31748a2b73/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f4bdcdd181c86c7cda44ce31748a2b73/jetified-play-services-ads-identifier-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9bd632f74bd918bb8c6ecd4a06be8cb6/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9bd632f74bd918bb8c6ecd4a06be8cb6/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a8c88d4738b8f86277fded9995d7df6f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a8c88d4738b8f86277fded9995d7df6f/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/ddbae51885cd0800673e72bc80983336/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/ddbae51885cd0800673e72bc80983336/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/12e57db4ad4c3c8b6128d58c9df658fa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/12e57db4ad4c3c8b6128d58c9df658fa/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/46f1573a451260a6790a0a5aff843716/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/46f1573a451260a6790a0a5aff843716/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/6403655464e8787da013016443acb4be/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/6403655464e8787da013016443acb4be/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb6abfa7091d69fbeab99f65155bc8d6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb6abfa7091d69fbeab99f65155bc8d6/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fcc3d1d2cee5cdcdcd88120da1d0181e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fcc3d1d2cee5cdcdcd88120da1d0181e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5c6f1ad2a3b572123130abaa959f8aa9/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5c6f1ad2a3b572123130abaa959f8aa9/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/b4d1fcf99986f80609cc667d9fb4b6b0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/b4d1fcf99986f80609cc667d9fb4b6b0/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a6f6832f62eb68db87917d8bd9f23634/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a6f6832f62eb68db87917d8bd9f23634/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e453cf3dfc6b6e71b0e0c9b55bac1e0f/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e453cf3dfc6b6e71b0e0c9b55bac1e0f/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3f517ad3371ff91f7666252f7203a740/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3f517ad3371ff91f7666252f7203a740/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/213cf0d48048b069df2a4779b7c3ca9d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/213cf0d48048b069df2a4779b7c3ca9d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f7f74baffcf7bb1bc62c69c3f8df2eb3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f7f74baffcf7bb1bc62c69c3f8df2eb3/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eed52a973f9573370ff164c4a0dfbfe8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/eed52a973f9573370ff164c4a0dfbfe8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5edc0b45de17326cc7b7855513787b23/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5edc0b45de17326cc7b7855513787b23/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3e45760876ec903607c06d312b141011/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3e45760876ec903607c06d312b141011/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3645ec191b4820857eea3999838bb819/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3645ec191b4820857eea3999838bb819/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/6e70eb1022907a65568769c412486936/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/6e70eb1022907a65568769c412486936/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0cf45ac27d883fec1562c604e4e419d0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0cf45ac27d883fec1562c604e4e419d0/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a8cb0a9578fd34f4f7b569bc9cc33d50/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/a8cb0a9578fd34f4f7b569bc9cc33d50/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1e5fb9d906d5af05481c58a7ccc8e512/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1e5fb9d906d5af05481c58a7ccc8e512/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3c0a23e04d9df9c06ffa98f4d1b56065/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/004efda64469b6a933087381de70f464/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/004efda64469b6a933087381de70f464/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5638339a343433508d77f575b3c34252/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/5638339a343433508d77f575b3c34252/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1c9163fa79510bb444974bfbdbc90ed3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/1c9163fa79510bb444974bfbdbc90ed3/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3beecf4f2cc1155a8fc167b059e7e9c5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/3beecf4f2cc1155a8fc167b059e7e9c5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c6f5b3cd4cbfa1db55e76b07912f3740/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c6f5b3cd4cbfa1db55e76b07912f3740/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/12f5baadd5d1a3a114f657a42ab1cdfa/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/12f5baadd5d1a3a114f657a42ab1cdfa/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/4965e5b6f45e43c4e2fa10aa6bc086d5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/4965e5b6f45e43c4e2fa10aa6bc086d5/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e4ac42486f81acdc4a205ad9e432e06b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e4ac42486f81acdc4a205ad9e432e06b/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/b231973ba009e3ebf86de02b558550a0/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/b231973ba009e3ebf86de02b558550a0/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c211966c2c602769535e6c2a19d12dd7/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c211966c2c602769535e6c2a19d12dd7/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/176d4d504e5bef911ee2267c5a50d9de/jetified-play-services-measurement-base-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/176d4d504e5bef911ee2267c5a50d9de/jetified-play-services-measurement-base-16.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/iboseong/AndroidStudioProjects/team-call/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:flutter_incoming_call] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_incoming_call/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:53
+	android:resource
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-50
+	android:name
+		ADDED from [:flutter_webview_plugin] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_webview_plugin/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/iboseong/AndroidStudioProjects/team-call/build/url_launcher/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-74
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:19:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/iboseong/AndroidStudioProjects/team-call/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-133
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.telephony
+ADDED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:flutter_phone_direct_caller] /Users/iboseong/AndroidStudioProjects/team-call/build/flutter_phone_direct_caller/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-50
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/iboseong/AndroidStudioProjects/team-call/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-123
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/92952efca8b7a9bdaf56ee34ef331cc6/jetified-grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/92952efca8b7a9bdaf56ee34ef331cc6/jetified-grpc-android-1.21.0/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:13:22-76
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/f73df7be3ea3e6a6146a14097bb34e07/jetified-firebase-firestore-21.3.0/AndroidManifest.xml:21:17-111
+uses-permission#android.permission.GET_TASKS
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:13:22-65
+receiver#com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:16:9-92
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:16:19-89
+service#com.transistorsoft.tsbackgroundfetch.FetchJobService
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:18:9-21:72
+	android:exported
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:20:13-36
+	android:permission
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:19:13-80
+receiver#com.transistorsoft.tsbackgroundfetch.BootReceiver
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:24:13-77
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:28:17-84
+	android:name
+		ADDED from [com.transistorsoft:tsbackgroundfetch:0.5.2] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/30611c7f84e5ba12c0e462427e400a03/jetified-tsbackgroundfetch-0.5.2/AndroidManifest.xml:28:25-81
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/60ffb3bda1218c91b79b653c31d2786f/jetified-firebase-auth-17.0.0/AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/e757c80af3dcd3deb44368117c7a8add/jetified-firebase-measurement-connector-impl-16.0.1/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/0604ac3f6d875a7a5d8361a048b0ca43/jetified-firebase-analytics-impl-16.1.1/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/7a32b4d62fa0456ce8942f49d14b8f95/jetified-firebase-analytics-16.0.1/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:29:9-63
+permission#com.team_call.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:32:22-76
+uses-permission#com.team_call.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.team_call
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:48:27-58
+category#com.team_call
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/9b43868c87536816a235d4b1dc7403ac/jetified-firebase-iid-16.0.0/AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/74c988a74a1db4c1935de68c3cfc34be/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/fb41218eb17d9f87bd2561850271f62e/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/iboseong/.gradle/caches/transforms-2/files-2.1/c059897ed48e949969f208f882057f81/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

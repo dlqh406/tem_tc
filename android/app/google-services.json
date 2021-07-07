@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280186310713",
+    "project_id": "teamcall-49b4c",
+    "storage_bucket": "teamcall-49b4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280186310713:android:5d1a517805b37283e77de8",
+        "android_client_info": {
+          "package_name": "com.team_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280186310713-bu2m49bf3chpucroksk69k6fvkkn7e2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqaSMBYOdnpA71fhce4qjoWbU6dmPAtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280186310713-bu2m49bf3chpucroksk69k6fvkkn7e2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
