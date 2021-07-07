@@ -1,8 +1,0 @@
-com/team_call/BuildConfig.java
- com.team_call.BuildConfig
-com/team_call/MainActivity.java
- com.team_call.MainActivity
-com/team_call/test2.java
- com.team_call.test2
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant

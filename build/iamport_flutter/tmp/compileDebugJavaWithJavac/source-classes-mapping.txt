@@ -1,4 +1,0 @@
-kr/iamport/iamport_flutter/BuildConfig.java
- kr.iamport.iamport_flutter.BuildConfig
-kr/iamport/iamport_flutter/IamportFlutterPlugin.java
- kr.iamport.iamport_flutter.IamportFlutterPlugin

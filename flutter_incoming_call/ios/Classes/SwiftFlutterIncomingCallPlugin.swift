@@ -54,7 +54,7 @@ public class SwiftFlutterIncomingCallPlugin: NSObject, FlutterPlugin {
 
     // Group의 UserDefaults에 DB 데이터를 저장합니다.
     func saveUserData(strData:String){
-        let userDefaults = UserDefaults(suiteName: "group.com.team_call.callkit")
+        let userDefaults = UserDefaults(suiteName: "group.com.teamCall.callkit")
         let userData = loadJsonFile(strValue:strData)
         try? userDefaults?.set(PropertyListEncoder().encode(userData), forKey: "dbData")
     }

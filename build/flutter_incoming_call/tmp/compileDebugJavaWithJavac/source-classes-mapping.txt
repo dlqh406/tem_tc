@@ -1,2 +1,0 @@
-com/teamcall/flutter_incoming_call/BuildConfig.java
- com.teamcall.flutter_incoming_call.BuildConfig

@@ -51,7 +51,7 @@ class CallDirectoryHandler: CXCallDirectoryProvider {
         }
 */
 
-        let userDefaults = UserDefaults(suiteName: "group.com.team_call.callkit")
+        let userDefaults = UserDefaults(suiteName: "group.com.teamCall.callkit")
         var labelsKeyedByPhoneNumber: [CXCallDirectoryPhoneNumber: String] = [ : ]
 
         //UserData는 보내는 부분과 받는 부분에 둘다 생성해줘야하는 문제가 있습니다.

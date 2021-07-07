@@ -1,0 +1,11 @@
+framework module flutter_incoming_call {
+  umbrella header "flutter_incoming_call-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module flutter_incoming_call.Swift {
+    header "flutter_incoming_call-Swift.h"
+    requires objc
+}
