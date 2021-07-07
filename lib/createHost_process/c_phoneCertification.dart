@@ -221,6 +221,7 @@ class _c_PhoneCertificationState extends State<c_PhoneCertification> {
                               "모든 정보를 입력해주세요.",
                             ),
                           );
+                        //  ㅇㅇ
                         } else {
                           if (myControllerBirth.text.length == 8) {
                             var date = new DateTime.now().toString();
